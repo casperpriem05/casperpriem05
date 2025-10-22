@@ -205,7 +205,7 @@ Quantifies the energy, carbon, and water footprint of AI prompts using ChatGPT u
 
 [![Website](https://img.shields.io/badge/Website-PrompterLogic.com-2E86AB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prompterlogic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/casperpriem)
-[![Email](https://img.shields.io/badge/Email-casperpriem05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casperpriem05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-me@casperdatascientist.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@casperdatascientist.com)
 
 </div>
 
