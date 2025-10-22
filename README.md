@@ -35,6 +35,9 @@ Many of my client projects involve private business data, so I don't publish the
 **[File Format Performance Benchmarking](https://github.com/casperpriem05/Format-research)**  
 A comprehensive Python benchmarking tool that evaluates 10+ file storage formats (Parquet, HDF5, Zarr, NetCDF, etc.) for sensor data performance. Measures write time, read time, and file size across multiple test cycles with automated cleanup and detailed reporting.
 
+**[EcoCompute – Make Every Prompt Count](https://github.com/casperpriem05/EcoCompute)**  
+Quantifies the energy, carbon, and water footprint of AI prompts using ChatGPT usage data and verified datacenter metrics. A transparent look at the environmental impact of large-scale AI systems. and a personal step forward through a **tree-planting donation** to offset its footprint.
+
 > 💡 To protect client confidentiality, I keep most repositories private.  
 > Here, I'll share more **research, learning, and personal projects** that reflect my growth and experimentation in machine learning, automation, and sustainable AI.
 
