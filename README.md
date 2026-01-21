@@ -13,10 +13,10 @@
 ### 🎯 About Me
 
 I'm a **Data Science & AI student** from the Netherlands, studying at The Hague University of Applied Sciences.  
-I spend most of my time turning ideas into working systems — from data pipelines to AI-driven workflows that actually help people and small companies.
+I spend most of my time turning ideas into working systems, from data pipelines to AI-driven workflows that actually help people and small companies.
 
-**🇨🇭 Currently building my foundation for an international career in Switzerland** — my partner studies there, and I'm actively pursuing both my personal and professional life in this incredible country. I want to combine my technical expertise with the life I'm creating there.  
-My motivation is simple: I want to build things that last — systems, relationships, and opportunities.
+**🇨🇭 Currently building my foundation for an international career in Switzerland**. My partner studies there, and I'm actively pursuing both my personal and professional life in this incredible country. I want to combine my technical expertise with the life I'm creating there.  
+My motivation is simple: I want to build things that last and apply that into everything such as systems, relationships, and opportunities.
 
 </div>
 
