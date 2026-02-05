@@ -51,13 +51,3 @@ I am a **Data Science & AI student** at The Hague University of Applied Sciences
 * **Impact:** Quantifies the energy, carbon, and water footprint of AI prompts to promote sustainable computing.
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=casperpriem05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<br/>
-
-*"The best systems aren't the most complex — they're the ones that quietly make life easier."*
-
-</div>
