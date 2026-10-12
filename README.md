@@ -19,7 +19,6 @@ I am a **Data Science & AI student** at The Hague University of Applied Sciences
 
 * **📍 Focus:** Applied AI, Automation Pipelines, and Data Infrastructure.
 * **💼 Experience:** Research Assistant (Smart Sensor Systems) & Freelance Data Scientist.
-* **🇨🇭 Goal:** I am positioning myself for a future in **Switzerland**. I am currently seeking a mandatory internship in the **DACH region** starting **September 2026**.
 
 ---
 
